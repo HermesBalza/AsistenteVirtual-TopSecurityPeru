@@ -1,0 +1,114 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: 'BA74C7F8738EE008343D5ADDC300E8CD',
+    participant: undefined
+  },
+  messageTimestamp: 1684870200,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584245187509'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: 'C24596A87E89805E16D5D4A781F7BE8F',
+    participant: undefined
+  },
+  messageTimestamp: 1684870222,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584245187509'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: '5DFFC2B977F4AB3DB545B197823ABDB1',
+    participant: undefined
+  },
+  messageTimestamp: 1684870229,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584245187509'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: '0A46EC229316555BDFF2E7D16FCE44BF',
+    participant: undefined
+  },
+  messageTimestamp: 1684870926,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '584245187509'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: '5BB5C63BE3E901908B2C2E5BAAB0DDE7',
+    participant: undefined
+  },
+  messageTimestamp: 1684870931,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '584245187509'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584245187509@s.whatsapp.net',
+    fromMe: false,
+    id: '96536708531227C39A2CE5850B61F86C',
+    participant: undefined
+  },
+  messageTimestamp: 1684870962,
+  pushName: 'Hermes Balza',
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '6',
+  from: '584245187509'
+}
